@@ -1,2 +1,1 @@
-My first readme
-READme.md update 
+I am a software intern
